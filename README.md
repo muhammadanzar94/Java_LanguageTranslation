@@ -23,5 +23,5 @@ But if translation word is not in the program it will give corresponding error
 
 **How to Install:**
 
-Basically to run this project you should have an IDE of java and download the project code and resources file in the same directory 
+Basically to run this project you should have an IDE (IntelliJ, Netbeans etc) of java and download the project code and resources file in the same directory 
 and then run the driver code containing main function in it.
